@@ -1,0 +1,15 @@
+#last digit of int
+a = int(input())
+print(a%10)
+
+#tens digit
+a = int(input())
+print(a//10%10)
+
+#sum of digits
+a = int(input())
+b = a%10
+c = a//10%10
+d = a//100
+print(b+c+d)
+

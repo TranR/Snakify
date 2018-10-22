@@ -1,0 +1,31 @@
+python
+16 < 5
+16 > 5
+5 < 2
+5 > 2
+4 + 2 == 6
+1!=2
+3 + 3 == 6 and len("hi!") == 3
+
+year = 2018
+
+name = raw_input("What's your name?")
+"r"
+
+"""ok 
+... this 
+... appears 
+... to 
+... work"""
+
+"Hi!" * 10
+
+num = 8
+if num > 6:
+    if num > 10:
+        print "The number is greater than 10"
+    else:
+        print "The number is greater than 6 but not greater than 10"
+else:
+    print "The number is less than or equal to 6."
+
