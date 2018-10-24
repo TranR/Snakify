@@ -22,7 +22,7 @@ a = float(input())
 print(int(a%1//.1))
 
 #car route
-from math
+from math import ceil
 a = int(input())
 b = int(input())
 print(ceil(b/a))
